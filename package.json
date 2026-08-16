@@ -1,6 +1,6 @@
 {
   "name": "dsh-move",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "搬家插件：设置栏「搬家」页面，打包（工程必选 / 会话可选）+ 导入还原，基于 dsh-move.mjs 引擎。",
   "type": "module",
   "main": "lib/index.js",
